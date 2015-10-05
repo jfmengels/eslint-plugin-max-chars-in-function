@@ -1,0 +1,27 @@
+{
+  "name": "eslint-plugin-max-chars-in-function",
+  "version": "1.0.0",
+  "description": "ESLint plugin that checks whether functions are too long",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfmengels/eslint-plugin-max-chars-in-function.git"
+  },
+  "keywords": [
+    "eslint",
+    "function",
+    "functions",
+    "long",
+    "Node",
+    "Node.js"
+  ],
+  "author": "Jeroen Engels <jfm.engels@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfmengels/eslint-plugin-max-chars-in-function/issues"
+  },
+  "homepage": "https://github.com/jfmengels/eslint-plugin-max-chars-in-function#readme"
+}
